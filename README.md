@@ -1,6 +1,6 @@
 Markdown常用编写规范  
 ***  
-<font color=red>1.标题</font>  
+$\color{red}{1.标题}$  
 # 顶级标题 等价于\<h1\>或title  
 ## 2级标题 \<h2\>  
 ### 3级标题 \<h3\>  
