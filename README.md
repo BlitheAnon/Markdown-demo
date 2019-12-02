@@ -26,9 +26,8 @@
 双空格  
 ***  
 ## <a id="3">3.代码块</a>  
-    `helloworld`  \`helloworld\`  
+`helloworld`
 
-   
     console.log('行前加制表符，行前后空一行')  
 ***
 ## <a id="4">4.分割线</a>  
